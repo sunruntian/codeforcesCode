@@ -45,4 +45,4 @@ int main(){
         rb(j-i);i=j;
     }
     for(ll i=1;i<=q;i++)cout<<(ans[i]?"NO\n":"YES\n");
-}
+}//2758
